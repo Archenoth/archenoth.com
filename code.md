@@ -37,7 +37,7 @@ Using the extremely neat [pret](https://github.com/pret/pokered) disassembly of 
 
 [Oshawott's moveset](https://bulbapedia.bulbagarden.net/wiki/Oshawott_(Pok%C3%A9mon)#Learnset) largely doesn't exist in the Gen 1 Pokemon games, so this is still a bit challenging, though I did give the entire line access to Mega Punch and Mega Kick since the place you can get those can be taught to any starter!
 
-[Here is a video of it in action](https://twitter.com/Archenoth/status/1237167573176700928) if you wanna see what it all looks like~
+[Here is a video of it in action](https://www.youtube.com/watch?v=g8ttpYLQaw8) if you wanna see what it all looks like~
 
 
 ## [clj-anki](https://github.com/Archenoth/clj-anki)
